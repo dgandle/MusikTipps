@@ -18,3 +18,7 @@ https://www.voxengo.com/product/span/
 
 Voxengo MSED - Mid/Side Encoder/Decoder
 https://www.voxengo.com/product/msed/
+
+## Samples & Loops
+
+Sounds of Revolution: FX Revolution Vol.1 - https://www.sounds-of-revolution.com/portfolio/fx-revolution-vol1/
