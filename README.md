@@ -3,8 +3,10 @@
 ## Track Breakdowns
 
 ### Melodic House
-The Making of 'Lost In You' with Marsh - https://youtu.be/4I1ULIQavhc
+**The Making of 'Lost In You' with Marsh** - https://youtu.be/4I1ULIQavhc
 - 46:48 Snare rolls
+
+**The Making of 'The Blind Navigator' with Kasper Koman** - https://youtu.be/gW5UJWLiKjo
 
 ## Free Plugins
 
