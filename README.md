@@ -8,16 +8,19 @@
 
 **The Making of 'The Blind Navigator' with Kasper Koman** - https://youtu.be/gW5UJWLiKjo
 
-## Free Plugins
+## Plugins
 
-Infected Mushroom Wider - One-Knob Widener
+*Free* Infected Mushroom Wider - One-Knob Widener
 https://polyversemusic.com/products/wider/
 
-Voxengo SPAN - Spectrum Analyzer
+*Free* Voxengo SPAN - Spectrum Analyzer
 https://www.voxengo.com/product/span/
 
-Voxengo MSED - Mid/Side Encoder/Decoder
+*Free* Voxengo MSED - Mid/Side Encoder/Decoder
 https://www.voxengo.com/product/msed/
+
+Bento Noise Synth
+https://www.giorgiosancristoforo.net
 
 ## Samples & Loops
 
