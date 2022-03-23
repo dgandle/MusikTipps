@@ -24,6 +24,8 @@ https://www.voxengo.com/product/msed/
 
 *Free* Luftikus - Maaq EQ4 Clone https://www.kvraudio.com/product/luftikus-by-lkjb
 
+*Free* FerricTDS Tape Saturation https://www.kvraudio.com/product/ferrictds---tape-dynamics-simulator-by-variety-of-sound
+
 *Free* Spirtefire LABS https://labs.spitfireaudio.com
 
 Bento Noise Synth
