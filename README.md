@@ -20,6 +20,8 @@ https://www.voxengo.com/product/span/
 *Free* Voxengo MSED - Mid/Side Encoder/Decoder (Similar to Sie-Q?)
 https://www.voxengo.com/product/msed/
 
+*Free* Luftikus - Maaq EQ4 Clone https://www.kvraudio.com/product/luftikus-by-lkjb
+
 Bento Noise Synth
 https://www.giorgiosancristoforo.net
 
