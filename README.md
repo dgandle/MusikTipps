@@ -9,6 +9,7 @@
 - 14:34 EQ4 Air Gain (on a lead)
 - 17:06 Vocal Processing
 - 20:58 Reverb Sends
+- 29:04 Limiter on the bass
 
 **The Making of 'The Blind Navigator' with Kasper Koman** - https://youtu.be/gW5UJWLiKjo
 
