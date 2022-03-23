@@ -38,3 +38,9 @@ https://www.giorgiosancristoforo.net
 Sounds of Revolution: FX Revolution Vol.1 - https://www.sounds-of-revolution.com/portfolio/fx-revolution-vol1/
 
 Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/soundsoftheforest-soundmap/
+
+## Samples & Loops
+
+- Anjunadeep
+- Monstercat Silk
+- Colorize
