@@ -22,6 +22,8 @@ https://www.voxengo.com/product/msed/
 
 *Free* Luftikus - Maaq EQ4 Clone https://www.kvraudio.com/product/luftikus-by-lkjb
 
+*Free* Spirtefire LABS https://labs.spitfireaudio.com
+
 Bento Noise Synth
 https://www.giorgiosancristoforo.net
 
