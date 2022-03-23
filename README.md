@@ -41,7 +41,7 @@ Sounds of Revolution: FX Revolution Vol.1 - https://www.sounds-of-revolution.com
 
 Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/soundsoftheforest-soundmap/
 
-## Samples & Loops
+## Labels
 
 - Anjunadeep
 - This Never Happened
