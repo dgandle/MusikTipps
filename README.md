@@ -8,6 +8,7 @@
 - 13:30 Bitcrusher
 - 14:34 EQ4 Air Gain (on a lead)
 - 17:06 Vocal Processing
+- 20:58 Reverb Sends
 
 **The Making of 'The Blind Navigator' with Kasper Koman** - https://youtu.be/gW5UJWLiKjo
 
