@@ -5,6 +5,7 @@
 ### Melodic House
 **The Making of 'Lost In You' with Marsh** - https://youtu.be/4I1ULIQavhc
 - 46:48 Snare rolls
+- 13:30 Bitcrusher
 
 **The Making of 'The Blind Navigator' with Kasper Koman** - https://youtu.be/gW5UJWLiKjo
 
