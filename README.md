@@ -17,7 +17,7 @@ https://polyversemusic.com/products/wider/
 *Free* Voxengo SPAN - Spectrum Analyzer
 https://www.voxengo.com/product/span/
 
-*Free* Voxengo MSED - Mid/Side Encoder/Decoder
+*Free* Voxengo MSED - Mid/Side Encoder/Decoder (Similar to Sie-Q?)
 https://www.voxengo.com/product/msed/
 
 Bento Noise Synth
