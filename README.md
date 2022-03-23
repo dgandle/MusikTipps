@@ -13,6 +13,8 @@
 
 **The Making of 'The Blind Navigator' with Kasper Koman** - https://youtu.be/gW5UJWLiKjo
 
+**Enamour's Tutorials Playlist** : https://youtube.com/playlist?list=PLMXrRw-rCo5TAGctm3bcS1mBHPktqwg7c
+
 ## Plugins
 
 *Free* Infected Mushroom Wider - One-Knob Widener
