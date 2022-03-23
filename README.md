@@ -36,3 +36,5 @@ https://www.giorgiosancristoforo.net
 ## Samples & Loops
 
 Sounds of Revolution: FX Revolution Vol.1 - https://www.sounds-of-revolution.com/portfolio/fx-revolution-vol1/
+
+Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/soundsoftheforest-soundmap/
