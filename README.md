@@ -17,10 +17,13 @@
 
 *Free* Infected Mushroom Wider - One-Knob Widener
 https://polyversemusic.com/products/wider/
+
 *Free* Voxengo SPAN - Spectrum Analyzer
 https://www.voxengo.com/product/span/
+
 *Free* Voxengo MSED - Mid/Side Encoder/Decoder (Similar to Sie-Q?)
 https://www.voxengo.com/product/msed/
+
 *Free* Luftikus - Maaq EQ4 Clone https://www.kvraudio.com/product/luftikus-by-lkjb
 
 *Free* FerricTDS Tape Saturation https://www.kvraudio.com/product/ferrictds---tape-dynamics-simulator-by-variety-of-sound
