@@ -30,7 +30,7 @@ https://www.voxengo.com/product/msed/
 
 *Free* FerricTDS Tape Saturation https://www.kvraudio.com/product/ferrictds---tape-dynamics-simulator-by-variety-of-sound
 
-*Free* Spirtefire LABS https://labs.spitfireaudio.com
+*Free* Spitfire LABS https://labs.spitfireaudio.com
 
 Bento Noise Synth
 https://www.giorgiosancristoforo.net
@@ -49,3 +49,7 @@ Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/s
 - Colorize
 - ICONYC
 
+## Remix Ideas
+
+- Ben Böhmer - Slow Wave
+- RY X - Berlin
