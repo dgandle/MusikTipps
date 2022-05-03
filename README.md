@@ -43,6 +43,7 @@ Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/s
 
 ## Labels
 
+### Melodic/Deep House
 - Anjunadeep
 - This Never Happened (Lane 8)
 - Monstercat Silk
@@ -52,6 +53,11 @@ Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/s
 - All Day I Dream (Lee Burridge)
 - Lost Miracle Recordings
 - The Mango Alley
+
+### Underground House
+- PIV
+- Berg Audio
+- Rutilance
 
 ## Remix Ideas
 
