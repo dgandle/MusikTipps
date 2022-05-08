@@ -59,6 +59,7 @@ Sounds of the Forest: Global forest recordings - https://timberfestival.org.uk/s
 - Berg Audio
 - Rutilance
 - LOWMONEYMUSICLOVE
+- Fresh Take Records
 
 ## Remix Ideas
 
