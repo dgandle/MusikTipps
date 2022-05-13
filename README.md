@@ -15,6 +15,10 @@
 
 **Enamour's Tutorials Playlist** : https://youtube.com/playlist?list=PLMXrRw-rCo5TAGctm3bcS1mBHPktqwg7c
 
+### Breakbeat
+
+Essential Breaks: Funky drummer, apache, think, amen
+
 ## Plugins
 
 *Free* Infected Mushroom Wider - One-Knob Widener
